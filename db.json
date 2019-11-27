@@ -23,7 +23,18 @@
           "date": "2019-10-13",
           "base_price": 80
         }
-      ]
+      ],
+      "reservation-cost":
+      {
+        "nights_count": 4,
+        "nights_cost": 95.82,
+        "discount": 13.82,
+        "cleaning_fee": 3.82,
+        "total": 112.95
+      },
+      "confirm-reservation":{
+        "message": "success! thanks for your reservation"
+      }
     }
   ],
   "profile": {
