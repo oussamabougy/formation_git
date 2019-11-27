@@ -23,20 +23,21 @@
           "date": "2019-10-13",
           "base_price": 80
         }
-      ],
-      "reservation-cost":
-      {
-        "nights_count": 4,
-        "nights_cost": 95.82,
-        "discount": 13.82,
-        "cleaning_fee": 3.82,
-        "total": 112.95
-      },
-      "confirm-reservation":{
-        "message": "success! thanks for your reservation"
-      }
+      ]
     }
   ],
+  "reservation-cost": {
+    "listingId": "28eed9aa-c27d-4217-ab21-ad65ead3a2aa",
+    "nights_count": 4,
+    "nights_cost": 95.82,
+    "discount": 13.82,
+    "cleaning_fee": 3.82,
+    "total": 112.95
+  },
+  "confirm-reservation": {
+    "listingId": "28eed9aa-c27d-4217-ab21-ad65ead3a2aa",
+    "message": "success! thanks for your reservation"
+  }
   "profile": {
     "listingId":"28eed9aa-c27d-4217-ab21-ad65ead3a2aa",
     "name": "typicode"
